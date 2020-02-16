@@ -1,0 +1,12 @@
+#colors
+tc=ffffffff
+rc=ff3a0fff
+ic=111111ff
+wc=000000ff
+
+blur=6
+width=7
+delta=55
+radius=110
+datesize=13
+timesize=28

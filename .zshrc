@@ -106,4 +106,5 @@ export PATH=$PATH:~/Android/Sdk/platform-tools
 
 alias picom-toggle='if (pgrep -x picom); then killall picom; else picom -b; fi'
 
-
+#script aliases
+scripts=~/.config/i3lock/scripts
