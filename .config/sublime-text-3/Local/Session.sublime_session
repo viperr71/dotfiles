@@ -1,0 +1,775 @@
+{
+	"folder_history":
+	[
+		"/home/vic/.config/termite",
+		"/home/vic/.config/i3",
+		"/home/vic/.config/polybar"
+	],
+	"last_version": 3211,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 945.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:  git",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/timeshift/snapshots/2020-01-26_18-58-25/localhost/home/vic/.config/picom/picom.conf",
+				"/home/vic/.config/sxhkd/sxhkdrc",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/timeshift/snapshots/2020-01-26_18-58-25/localhost/home/vic/.config/sxhkd/sxhkdrc",
+				"/etc/fstab",
+				"/home/vic/.config/picom/picom.conf",
+				"/home/vic/.config/polybar/scripts/spotify_status.py",
+				"/home/vic/.config/polybar/config.ini",
+				"/run/media/vic/76b61c06-c5ca-4149-b34e-94c4042f9a1b/etc/fstab",
+				"/home/vic/.config/bspwm/bspwmrc",
+				"/home/vic/.config/plasma-workspace/env/kde-bspwm.sh",
+				"/home/vic/kdestartup.sh",
+				"/home/vic/.fehbg",
+				"/tmp/greeter.xwd",
+				"/home/vic/sddm.sh",
+				"/home/vic/.Xauthority",
+				"/home/vic/sddm-greeter-capture.sh",
+				"/home/vic/.bin/GestisciMenuPersonalizzato.sh",
+				"/home/vic/.zshrc",
+				"/home/vic/.Xresources",
+				"/home/vic/.bashrc",
+				"/home/vic/.gitconfig",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/polybar/scripts/title_bar.py",
+				"/home/vic/.oh-my-zsh/themes/blokkzhmod.zsh-theme",
+				"/home/vic/.oh-my-zsh/themes/blokkzh 1.zsh-theme",
+				"/home/vic/.oh-my-zsh/themes/blokkzh.zsh-theme",
+				"/home/vic/Downloads/zsh theme",
+				"/home/vic/.zshrc.pre-oh-my-zsh",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/polybar/config_bspwm",
+				"/home/vic/.config/Thunar/accels.scm",
+				"/home/vic/.conky/Hybrid/Hybrid",
+				"/home/vic/.local/share/kservices5/ServiceMenus/102548-open_as_root.desktop",
+				"/home/vic/.local/share/kservices5/ServiceMenus/open terminal here.desktop",
+				"/home/vic/.local/share/sddm/xorg-session.log",
+				"/home/vic/.local/share/kservices5/ServiceMenus/CustomMenu.desktop",
+				"/home/vic/.config/polybar/scripts/title_bar.py",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/polybar/scripts/i3listen.py",
+				"/home/vic/.config/polybar/scripts/weather.sh",
+				"/home/vic/.config/rofi/themes/sidetab.rasi",
+				"/home/vic/.config/rofi/config.rasi",
+				"/home/vic/.config/rofi/scripts/i3layoutmenu.sh",
+				"/home/vic/.config/rofi/run_rofi.sh",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/polybar/config",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/colorschemes/srcery",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/colorschemes/tender",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/bspwm/bspwmrc",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/scripts/kbd_backlight.py",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/sxhkd/sxhkdrc",
+				"/home/vic/Downloads/bspwm-dotfiles-master-.config/.config/picom.conf",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/termite/config",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/termite/themes/base16-railscasts.config",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/termite/themes/base16-oceanicnext.config",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/polybar/scripts/compton-toggle.sh",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/polybar/scripts/pub-ip.sh",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/polybar/scripts/weather.py",
+				"/home/vic/.config/polybar/scripts/weather1.sh",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/polybar/config",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/nitrogen/bg-saved.cfg",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/nitrogen/nitrogen.cfg",
+				"/home/vic/.config/dolphinrc",
+				"/usr/share/applications/termite.desktop",
+				"/home/vic/.local/share/kservices5/ServiceMenus/Terminalhere.desktop",
+				"/home/vic/.local/share/kservices5/ServiceMenus/Termitehere.desktop",
+				"/home/vic/.local/share/applications/nemo.desktop",
+				"/home/vic/.local/share/applications/Nautilus.desktop",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/Arcolinux/bspwm/bspwmrc",
+				"/home/vic/.config/arkrc",
+				"/home/vic/.config/termite/config",
+				"/home/vic/.config/neofetch/config.conf",
+				"/lib/systemd/system/systemd-journal-flush.service",
+				"/usr/share/xsessions/bspwm.desktop",
+				"/home/vic/.config/polybar/scripts/weather.sh2",
+				"/home/vic/Downloads/dotfiles-master/nord/home/enindu/.config/polybar/config",
+				"/home/vic/.config/polybar/scripts/weather (copy).sh",
+				"/home/vic/.config/polybar/test/config.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t2.ini",
+				"/home/vic/.config/polybar/config",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t1.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t6.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t5.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t4.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-6/config-t3.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-2/dark/config.blue-grey",
+				"/home/vic/Downloads/polybar-themes-master/polybar-2/dark/config.amber",
+				"/home/vic/Downloads/dotfiles-master/nord/home/enindu/.config/polybar/scripts/weather.sh",
+				"/home/vic/.config/polybar/launch.sh",
+				"/home/vic/Dev/polybar backup/config.ini",
+				"/home/vic/Downloads/dotfiles-master/nord/home/enindu/.config/bspwm/bspwmrc",
+				"/home/vic/Downloads/dotfiles-master/nord/home/enindu/.bashrc",
+				"/home/vic/dotfiles/README.md",
+				"/home/vic/dotfiles/.Xresources",
+				"/home/vic/Dev/Android Files/cheatsheet.txt",
+				"/home/vic/Downloads/.fehbg",
+				"/home/vic/.config/cava/config",
+				"/usr/share/sddm/themes/sugar-candy/theme.conf",
+				"/home/vic/.config/GIMP.bak/2.10/action-history",
+				"/home/vic/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
+				"/home/vic/.config/yakuakerc",
+				"/home/vic/.config/gcolor3/config.ini",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/timeshift/snapshots/2020-01-16_13-38-49/localhost/home/vic/.config/polybar/config.ini",
+				"/home/vic/Dev/scripts/kdestartup.sh",
+				"/home/vic/Downloads/Tela-icon-theme-master/README.md",
+				"/home/vic/Downloads/sardi-icons-19.12-2.tar.gz",
+				"/home/vic/.conky/ArchOS/.conky_date",
+				"/home/vic/.config/kscreenlockerrc",
+				"/home/vic/.config/kde.org/lattedock.conf",
+				"/home/vic/.kde4/share/config/breezerc",
+				"/home/vic/.config/polybar/scripts/colors-dark.sh",
+				"/home/vic/Downloads/dotfiles-master/.config/polybar/config.ini",
+				"/home/vic/.config/polybar/scripts/color-switch.sh",
+				"/home/vic/.config/polybar/scripts/type.sh",
+				"/home/vic/.config/polybar/scripts/type-switch.sh",
+				"/home/vic/Downloads/polybar-themes-master/polybar-10/launch.sh",
+				"/home/vic/Downloads/polybar-themes-master/polybar-10/config.ini",
+				"/home/vic/.config/polybar/scripts/kde-menu",
+				"/home/vic/.config/polybar/scripts/kde.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-10/panel/kde-line.ini",
+				"/home/vic/dotfiles/.config/polybar/config.ini",
+				"/usr/share/sddm/themes/Breeze-Blue-Light-Blur/theme.conf",
+				"/home/vic/.config/oomox/colors/burnt",
+				"/home/vic/.config/spotify-tui/.spotify_token_cache.json",
+				"/home/vic/.zsh_history",
+				"/home/vic/.config/latte/Plasma.layout.latte",
+				"/home/vic/.bashrc.uninstall",
+				"/home/vic/.bash_it/README.md",
+				"/home/vic/Downloads/backup/config",
+				"/home/vic/.oh-my-zsh/plugins/sdk/README.md",
+				"/home/vic/.oh-my-zsh/plugins/gnu-utils/README.md"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cyan ",
+					"cyan",
+					"619eff",
+					"a6bbc0",
+					"619eff",
+					"fe1818",
+					"#bd2c40",
+					"#57697e",
+					"515556",
+					"a6bbc0",
+					"6d9ec6",
+					"a1a1a1",
+					"1791d1",
+					"d12018",
+					"d11728",
+					"db4812",
+					"2c3e50",
+					"3955a3",
+					"192547",
+					"c8c8c8",
+					"48443f",
+					"ff2408",
+					"bfc3aa",
+					"8d907d",
+					"6699ce",
+					"ba6bff",
+					"8b77ff",
+					"b17ac8",
+					"ffffff",
+					"985924",
+					"6699ce",
+					"bash",
+					"ZSH_THEME",
+					"plugins",
+					"87afd7",
+					"background-alt",
+					"41ceab",
+					"dddddd",
+					"ff2323",
+					"830d01",
+					"41ceab",
+					"619eff",
+					"33A8ED",
+					"B93409",
+					"66a5f2",
+					"317b96"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\norange\n",
+					"\na6bbc0\n",
+					"a6bbc0\n",
+					"fe1818\n",
+					"dddddd\n",
+					"a1a1a1\n",
+					"619eff",
+					"1791d1",
+					"d12018",
+					"d11728",
+					"db4812",
+					"2c3e50",
+					"3955a3",
+					"192547",
+					"c8c8c8",
+					"48443f",
+					"ff2408",
+					"bfc3aa",
+					"8d907d",
+					"6699ce",
+					"ba6bff",
+					"8b77ff",
+					"b17ac8",
+					"ffffff",
+					"985924",
+					"zsh",
+					"6699ce",
+					"87afd7",
+					"dddddd",
+					"ff2323",
+					"830d01",
+					"41ceab",
+					"619eff",
+					"33A8ED",
+					"B93409"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1810.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:  git",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/vic/dotfiles/.config/i3lockrc",
+				"/home/vic/.config/bspwm/bspwmrc",
+				"/home/vic/dotfiles/README.md",
+				"/home/vic/.config/polybar/config2.ini",
+				"/home/vic/.config/picom/picom.conf",
+				"/home/vic/.config/termite/config",
+				"/home/vic/.config/polybar/config.ini",
+				"/home/vic/.config/polybar/launch.sh",
+				"/home/vic/.config/polybar/config4.ini",
+				"/home/vic/.config/polybar/config3.ini",
+				"/home/vic/.config/i3lockrc",
+				"/home/vic/.config/i3lock/scripts/colorctl.sh",
+				"/home/vic/.config/rofi/themes/sidebar.rasi",
+				"/home/vic/.config/rofi/scripts/utilities_rofi.sh",
+				"/home/vic/.config/rofi/themes/miminal.rasi",
+				"/home/vic/.config/polybar/scripts/spotify_status.py",
+				"/home/vic/.config/polybar/scripts/weather.sh",
+				"/home/vic/.config/rofi/scripts/utilities_rofi2.sh",
+				"/home/vic/.config/autostart-scripts/xinitrc",
+				"/home/vic/dotfiles/.zshrc",
+				"/home/vic/.zshrc",
+				"/home/vic/.config/mpd/mpd.conf",
+				"/home/vic/xinitrc",
+				"/home/vic/.ncmpcpp/error.log",
+				"/home/vic/snapd/pkg/snapd/.INSTALL",
+				"/home/vic/.ncmpcpp/config",
+				"/home/vic/.config/polybar/scripts/colors_rofi.sh",
+				"/home/vic/.config/polybar/scripts/utilities.sh",
+				"/home/vic/.config/polybar/scripts/utilities_rofi.sh",
+				"/home/vic/.Xresources",
+				"/home/vic/Downloads/config",
+				"/home/vic/Downloads/orw-master/dotfiles/.ncmpcpp/config",
+				"/tmp/mpd.fifo",
+				"/home/vic/.ncmpcpp/config_cover_art",
+				"/home/vic/.ncmpcpp/config_visualizer",
+				"/home/vic/.ncmpcpp/mpd.fifo",
+				"/home/vic/.ncmpcpp/backup",
+				"/home/vic/.config/mpd/state",
+				"/usr/share/doc/mpd/mpdconf.example",
+				"/home/vic/.config/mpd/pid",
+				"/etc/mpd.conf",
+				"/home/vic/.zcompdump-viperr-5.7.1",
+				"/etc/pulse/client.conf",
+				"/home/vic/.config/ncmpcpp/config",
+				"/home/vic/Downloads/polybar-themes-master/polybar-11/scripts/colors_rofi.sh",
+				"/home/vic/Downloads/polybar-themes-master/polybar-11/scripts/colors.sh",
+				"/home/vic/Downloads/terminus-font-4.48/README",
+				"/home/vic/Downloads/terminus-font-4.48/INSTALL",
+				"/home/vic/.config/polybar/scripts/settings_rofi.sh",
+				"/home/vic/.config/polybar/scripts/settings.sh",
+				"/home/vic/.config/polybar/scripts/colors.sh",
+				"/home/vic/Downloads/polybar-themes-master/polybar-11/config.ini",
+				"/home/vic/Downloads/polybar-themes-master/polybar-10/scripts/kde-style",
+				"/home/vic/Dev/PC Files/Arch/Arch com",
+				"/home/vic/Dev/PC Files/bspwmrc",
+				"/home/vic/Dev/Android Files/set_up_rcs_messages.txt",
+				"/home/vic/Downloads/polybar-scripts-master/skeleton/README.md",
+				"/etc/X11/xinit/xinitrc",
+				"/home/vic/.config/rofi/config.rasi",
+				"/home/vic/.config/rofi/themes/viperr.rasi",
+				"/home/vic/.config/rofi/themes/sidetab.rasi",
+				"/home/vic/.config/rofi/themes/smallmenu.rasi",
+				"/home/vic/.config/rofi/themes/simplemenu.rasi",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/config/main.xml",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/code/tools.js",
+				"/home/vic/.local/share/plasma/plasmoids/kpluginindex.json",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/COPYING",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/ui/main.qml",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/ChangeLog",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/ui/ActionMenu.qml",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/metadata.desktop",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/ui/ActionMenu.qmlc",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/code/tools.jsc",
+				"/home/vic/.local/share/plasma/plasmoids/com.gitlab.jnuutinen.minimalmenu/contents/config/config.qml",
+				"/home/vic/.config/i3lock/lock.sh",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/lockout.qml",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/metadata.json",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/config/config.qml",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/config/main.xml",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/ConfigGeneral.qml",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/data.js",
+				"/home/vic/Downloads/symlink dotfile command",
+				"/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/metadata.desktop",
+				"/home/vic/.bash_profile",
+				"/home/vic/.bashrc",
+				"/home/vic/.config/sxhkd/sxhkdrc",
+				"/home/vic/.config/rofi/themes/center.rasi",
+				"/home/vic/.config/rofi/themes/vic.rasi",
+				"/run/media/vic/224dd0ca-38a2-45ff-923a-403a00ea5be8/timeshift/snapshots/2020-02-13_14-54-19/localhost/home/vic/.config/rofi/themes/sidetab.rasi",
+				"/home/vic/.config/rofi/themes/fancy.rasi",
+				"/home/vic/.config/rofi/themes/fullscreen.rasi",
+				"/home/vic/.config/rofi/scripts/themeswitch.sh",
+				"/home/vic/Downloads/sidebar.rasi",
+				"/usr/share/plasma/services/powermanagementservice.operations",
+				"/usr/share/plasma/plasmoids/org.kde.panel/contents/ui/LayoutManager.js",
+				"/home/vic/.config/rofi/config",
+				"/home/vic/.config/gtk-3.0/settings.ini",
+				"/home/vic/.config/gtk-2.0/gtkfilechooser.ini",
+				"/home/vic/.config/rofi/themes/sidebarbackup.rasi",
+				"/home/vic/.config/rofi/run_rofi.sh",
+				"/home/vic/.Xauthority",
+				"/home/vic/.config/rofi/themes/solarized.rasi",
+				"/home/vic/.config/rofi/themes/purple.rasi",
+				"/home/vic/.config/rofi/themes/Pop-Dark.rasi",
+				"/home/vic/.config/rofi/themes/paper-float.rasi",
+				"/home/vic/.config/rofi/themes/blue.rasi",
+				"/home/vic/.config/rofi/themes/lb.rasi",
+				"/home/vic/.config/rofi/themes/Arc.rasi",
+				"/home/vic/.config/autostart/xautolock.desktop",
+				"/home/vic/.config/autostart/picom.desktop",
+				"/home/vic/.config/i3lock/xautolock.sh",
+				"/home/vic/.config/xsettingsd/xsettingsd.conf",
+				"/home/vic/.config/autostart/xautolock",
+				"/home/vic/Dev/Android Files/cheatsheet.txt",
+				"/home/vic/.zshrc.pre-oh-my-zsh",
+				"/home/vic/dotfiles/.Xresources",
+				"/home/vic/dotfiles/.config/rofi/themes/sidetab.rasi",
+				"/home/vic/dotfiles/.config/rofi/themes/sidebar.rasi",
+				"/home/vic/.config/lock.sh",
+				"/home/vic/.config/i3lock/scripts/opacityctl.sh",
+				"/home/vic/lock/scripts/lock_screen.sh",
+				"/home/vic/lock/scripts/opacityctl.sh",
+				"/home/vic/lock/scripts/colorctl.sh",
+				"/home/vic/lock/scripts/pick_color.sh",
+				"/home/vic/orw/README.md",
+				"/home/vic/orw/dotfiles/.bashrc",
+				"/home/vic/orw/.man/windowctl.1",
+				"/run/media/vic/c286175b-2c5c-4feb-a96f-6e0f3b0f499a/home/vic/orw/scripts/opacityctl.sh"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"130",
+					"208",
+					"214",
+					"67",
+					"sola",
+					"fancy",
+					"“",
+					"”",
+					"“",
+					"colors.sh",
+					"lock",
+					"font",
+					"tmp ",
+					"icon ",
+					"cyan ",
+					"cyan",
+					"619eff",
+					"a6bbc0",
+					"619eff",
+					"fe1818",
+					"#bd2c40",
+					"#57697e",
+					"515556",
+					"a6bbc0",
+					"6d9ec6",
+					"a1a1a1",
+					"1791d1",
+					"d12018",
+					"d11728",
+					"db4812",
+					"2c3e50",
+					"3955a3",
+					"192547",
+					"c8c8c8",
+					"48443f",
+					"ff2408",
+					"bfc3aa",
+					"8d907d",
+					"6699ce",
+					"ba6bff",
+					"8b77ff",
+					"b17ac8",
+					"ffffff",
+					"985924",
+					"6699ce",
+					"bash",
+					"ZSH_THEME",
+					"plugins",
+					"87afd7",
+					"background-alt",
+					"41ceab",
+					"dddddd",
+					"ff2323",
+					"830d01",
+					"41ceab",
+					"619eff",
+					"33A8ED",
+					"B93409",
+					"66a5f2",
+					"317b96"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"15",
+					"130",
+					"208",
+					"214",
+					"vic",
+					"\"",
+					"\n\"",
+					"\n\"\n",
+					"\norange\n",
+					"\na6bbc0\n",
+					"a6bbc0\n",
+					"fe1818\n",
+					"dddddd\n",
+					"a1a1a1\n",
+					"619eff",
+					"1791d1",
+					"d12018",
+					"d11728",
+					"db4812",
+					"2c3e50",
+					"3955a3",
+					"192547",
+					"c8c8c8",
+					"48443f",
+					"ff2408",
+					"bfc3aa",
+					"8d907d",
+					"6699ce",
+					"ba6bff",
+					"8b77ff",
+					"b17ac8",
+					"ffffff",
+					"985924",
+					"zsh",
+					"6699ce",
+					"87afd7",
+					"dddddd",
+					"ff2323",
+					"830d01",
+					"41ceab",
+					"619eff",
+					"33A8ED",
+					"B93409"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,40,591,941,1036,3840,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/vic/.config/polybar/config.sublime-workspace"
+		]
+	}
+}
