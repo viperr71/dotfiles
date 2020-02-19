@@ -2,7 +2,7 @@
 options="one
 two
 three"
-theme=${1:-$HOME/.config/rofi/themes/sidetab.rasi}
+theme=${1:-$HOME/.config/rofi/themes/sidebar.rasi}
 selection=$(echo -e "${options}" | rofi -dmenu -config $theme)
 case "${selection}" in
   "one")

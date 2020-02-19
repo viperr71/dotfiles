@@ -1,12 +1,15 @@
 #! /bin/sh
 
+###########################
+##     Configuration     ##
+###########################
+
 killall sxhkd &
 sxhkd &
 ~/.fehbg &
 picom & --config ~/.config/picom/picom.conf -b &
 sh ~/.config/polybar/launch.sh &
 #/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-#termite &
 
 # Start mouse
 xsetroot -cursor_name left_ptr &
@@ -47,11 +50,12 @@ bspc config pointer_follows_monitor true
 bspc config remove_disabled_monitors	true
 bspc config remove_unplugged_monitors	true
 
-# Window layout on login
-feh --bg-scale ~/Pictures/Wallpapers/wall.jpg for HDMI1 ~/Pictures/Wallpapers/wall.jpg for eDP1
-gsettings set org.gnome.desktop.background picture-uri file:///home/vic/Pictures/Wallpapers/wall.jpg 
+##################
+## Window rules ##
+##################
 
 # Rules
+bspc rule -a Gparted state=floating follow=on
 bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a Firefox desktop='^2'
 bspc rule -a mplayer2 state=floating
@@ -66,3 +70,7 @@ bspc rule -a Kmix state=floating
 bspc rule -a Klipper state=floating
 bspc rule -a Plasmoidviewer state=floating
 bspc rule -a Nightly state=tiled
+
+# Wallpaper
+feh --bg-scale ~/Pictures/Wallpapers/wall.jpg for HDMI1 ~/Pictures/Wallpapers/wall.jpg for eDP1
+gsettings set org.gnome.desktop.background picture-uri file:///home/vic/Pictures/Wallpapers/wall.jpg 
