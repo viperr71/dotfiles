@@ -108,3 +108,6 @@ alias picom-toggle='if (pgrep -x picom); then killall picom; else picom -b; fi'
 
 #script aliases
 scripts=~/.config/i3lock/scripts
+
+# MPD daemon start (if no other user instance exists)
+[ ! -s ~/.config/mpd/pid ] && mpd
